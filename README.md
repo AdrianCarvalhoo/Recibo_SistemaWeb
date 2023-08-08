@@ -1,6 +1,6 @@
 # Projeto de Emissão de Recibos
 
-Este é um projeto simples de emissão de recibos em HTML, CSS e JavaScript. O objetivo do projeto é permitir que os usuários preencham os detalhes do recibo, incluindo o nome do emitente, nome do destinatário, valor e tipo de pagamento. Em seguida, eles podem gerar um recibo formatado que pode ser impresso.
+Este é um projeto de emissão de recibos em HTML, CSS e JavaScript. O objetivo do projeto é permitir que os usuários preencham os detalhes do recibo, incluindo o nome do emitente, nome do destinatário, valor e tipo de pagamento. Em seguida, eles podem gerar um recibo formatado que pode ser impresso.
 
 ## Funcionalidades
 
